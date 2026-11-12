@@ -1,4 +1,4 @@
-#include <io/Window.hpp>
+#include <vq/io/Window.hpp>
 
 int main(void) {
     vq::io::Window window({"Filtering After Shading"});
