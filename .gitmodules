@@ -1,0 +1,3 @@
+[submodule "3rdparty/VQ"]
+	path = 3rdparty/VQ
+	url = https://github.com/JulianKonowalski/VQ.git
